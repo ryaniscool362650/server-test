@@ -1,5 +1,5 @@
 #!/bin/bash
-# ~~~ EaglercraftX Server
+# ~~~ &9Mystical&aSMP&f-S3
 # ~~~ >> smashed together once again by ayunami2000
 # ~~~ >> modified by WinRAR
 
